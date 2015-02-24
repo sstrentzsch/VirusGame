@@ -10,9 +10,9 @@
 #include <sstream>
 using namespace std;
 
-const string APPTITLE = "Anti-Virus Game";
-const int SCREENW = 1024;
-const int SCREENH = 768;
+const string APPTITLE = "Anti-GIT Virus Game";
+const int SCREENW = 800;
+const int SCREENH = 600;
 
 //font variables
 LPD3DXFONT font;
